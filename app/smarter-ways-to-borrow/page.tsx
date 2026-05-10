@@ -8,18 +8,18 @@ const solutions = [
   {
     id: 'heloc',
     optionNumber: 'Option 01',
-    headline: 'HELOC — Borrow What You Need, When You Need It',
+    headline: 'HELOC: Borrow What You Need, When You Need It',
     body1:
-      "Here's something most homeowners don't realize: the equity sitting in your home can be turned into a flexible line of credit — at an interest rate that's typically a fraction of what a credit card charges. A Home Equity Line of Credit, or HELOC, lets you borrow what you need, when you need it, up to a set credit limit based on your home's equity.",
+      "Here's something most homeowners don't realize: the equity sitting in your home can be turned into a flexible line of credit at an interest rate that's typically a fraction of what a credit card charges. A Home Equity Line of Credit, or HELOC, lets you borrow what you need, when you need it, up to a set credit limit based on your home's equity.",
     body2:
-      'Think of it like a credit card, but backed by your home and with a much lower rate. You draw funds during a set draw period — usually 5 to 10 years — and only pay interest on what you actually use. Pay it back, and that credit is available again. It\'s flexible, reusable, and one of the lowest-cost borrowing options available to homeowners today.',
+      "Think of it like a credit card, but backed by your home and with a much lower rate. You draw funds during a set draw period, usually 5 to 10 years, and only pay interest on what you actually use. Pay it back, and that credit is available again. It's flexible, reusable, and one of the lowest-cost borrowing options available to homeowners today.",
     callout:
-      'A HELOC works like a credit card backed by your home — you draw funds as needed during the draw period, only paying interest on what you use.',
+      'A HELOC works like a credit card backed by your home. You draw funds as needed during the draw period, only paying interest on what you use.',
     body3:
-      "A lot of people assume applying is complicated. It doesn't have to be. You can see real options from multiple lenders in minutes — without affecting your credit score.",
+      "A lot of people assume applying is complicated. It doesn't have to be. You can see real options from multiple lenders in minutes, without affecting your credit score.",
     card: {
       label: 'Featured Option',
-      name: 'HELOC — Home Equity Line of Credit',
+      name: 'HELOC: Home Equity Line of Credit',
       detail: 'Variable rate · Draw period up to 10 years · Interest-only payments available',
       ctaText: 'Check My Rate →',
       ctaHref: 'https://myHomeEquityCompanion.com',
@@ -28,15 +28,15 @@ const solutions = [
   {
     id: 'home-equity-loan',
     optionNumber: 'Option 02',
-    headline: 'Home Equity Loan — Predictable Payments, Lump Sum Access',
+    headline: 'Home Equity Loan: Predictable Payments, Lump Sum Access',
     body1:
-      "A HELOC is great if you want flexibility. But sometimes you know exactly how much you need — and you want a payment that never changes. That's what a home equity loan gives you. You borrow a fixed amount upfront, at a fixed interest rate, and pay it back in equal monthly installments over a set term.",
+      "A HELOC is great if you want flexibility. But sometimes you know exactly how much you need and you want a payment that never changes. That's what a home equity loan gives you. You borrow a fixed amount upfront, at a fixed interest rate, and pay it back in equal monthly installments over a set term.",
     body2:
-      'It sits alongside your existing mortgage as a second loan, giving you access to your equity in one clean lump sum. It\'s particularly well-suited for a single large expense: a kitchen renovation, a college tuition payment, or a medical bill you want to knock out in full. Because the rate is fixed, you know exactly what you owe from day one to the last payment.',
+      "It sits alongside your existing mortgage as a second loan, giving you access to your equity in one clean lump sum. It's particularly well-suited for a single large expense: a kitchen renovation, a college tuition payment, or a medical bill you want to knock out in full. Because the rate is fixed, you know exactly what you owe from day one to the last payment.",
     callout:
-      'Unlike a HELOC, a home equity loan gives you all the funds at once with a fixed interest rate — making it ideal for large, one-time expenses.',
+      'Unlike a HELOC, a home equity loan gives you all the funds at once with a fixed interest rate, making it ideal for large, one-time expenses.',
     body3:
-      "Home equity loan rates are typically lower than personal loans, and because the rate is fixed, you're protected if interest rates rise. What you lock in today is what you pay — start to finish.",
+      "Home equity loan rates are typically lower than personal loans, and because the rate is fixed, you're protected if interest rates rise. What you lock in today is what you pay, start to finish.",
     card: {
       label: 'Featured Option',
       name: 'Home Equity Loan',
@@ -48,15 +48,15 @@ const solutions = [
   {
     id: 'cash-out-refi',
     optionNumber: 'Option 03',
-    headline: 'Cash-Out Refinance — Replace Your Mortgage and Pocket the Difference',
+    headline: 'Cash-Out Refinance: Replace Your Mortgage and Pocket the Difference',
     body1:
       "Here's a move that surprises a lot of homeowners: you can refinance your mortgage for more than you currently owe and pocket the difference as cash. It's called a cash-out refinance. If your home is worth $400,000 and you owe $250,000, you could refinance for $300,000, pay off the old mortgage, and walk away with $50,000 in cash to use however you need.",
     body2:
-      'The math makes the most sense when two things are true: you have significant equity in your home, and your current mortgage rate is higher than what\'s available today. If both apply, you could end up with a lower monthly payment and a large sum of cash at the same time. There are closing costs involved — typically 2–5% of the loan amount — but for the right borrower, those are easily offset by the savings.',
+      "The math makes the most sense when two things are true: you have significant equity in your home, and your current mortgage rate is higher than what's available today. If both apply, you could end up with a lower monthly payment and a large sum of cash at the same time. There are closing costs involved, typically 2–5% of the loan amount, but for the right borrower, those are easily offset by the savings.",
     callout:
-      'A cash-out refinance replaces your existing mortgage with a new, larger one — the difference is paid to you in cash at closing.',
+      'A cash-out refinance replaces your existing mortgage with a new, larger one. The difference is paid to you in cash at closing.',
     body3:
-      "This option isn't right for everyone — if you're already locked into a great rate, you'll want to think carefully before replacing your mortgage. But for homeowners who bought at a higher rate and have built up significant equity, it can be a powerful move.",
+      "This option isn't right for everyone. If you're already locked into a great rate, you'll want to think carefully before replacing your mortgage. But for homeowners who bought at a higher rate and have built up significant equity, it can be a powerful move.",
     card: {
       label: 'Featured Option',
       name: 'Cash-Out Refinance',
@@ -68,13 +68,13 @@ const solutions = [
   {
     id: 'personal-loan',
     optionNumber: 'Option 04',
-    headline: 'Personal Loan — Fast Funds Without Touching Your Home',
+    headline: 'Personal Loan: Fast Funds Without Touching Your Home',
     body1:
-      "Not everyone owns a home. And some homeowners simply don't want to borrow against it — which is a completely reasonable call. If that's you, a personal loan is almost certainly still smarter than reaching for a credit card. Personal loans are unsecured, meaning they're not tied to your home or any other asset, and they typically come with interest rates well below what credit cards charge.",
+      "Not everyone owns a home. And some homeowners simply don't want to borrow against it, which is a completely reasonable call. If that's you, a personal loan is almost certainly still smarter than reaching for a credit card. Personal loans are unsecured, meaning they're not tied to your home or any other asset, and they typically come with interest rates well below what credit cards charge.",
     body2:
-      "More importantly, a personal loan gives you a fixed payoff date. You borrow a set amount, make a set number of monthly payments, and then you're done. Credit card debt can follow you for years if you're only making minimum payments. The structure of a personal loan forces the finish line into view. Funding is fast too — many lenders can get money into your account within one to three business days.",
+      "More importantly, a personal loan gives you a fixed payoff date. You borrow a set amount, make a set number of monthly payments, and then you're done. Credit card debt can follow you for years if you're only making minimum payments. The structure of a personal loan forces the finish line into view. Funding is fast too, with many lenders getting money into your account within one to three business days.",
     callout:
-      "Personal loans are unsecured, meaning your home isn't on the line — but you'll typically pay a higher rate than with home equity products.",
+      "Personal loans are unsecured, meaning your home isn't on the line, but you'll typically pay a higher rate than with home equity products.",
     body3:
       "Personal loan rates vary based on your credit score, but checking your rate typically takes two minutes and won't affect your credit. It's worth knowing what you qualify for before you decide.",
     card: {
@@ -88,15 +88,15 @@ const solutions = [
   {
     id: 'debt-consolidation',
     optionNumber: 'Option 05',
-    headline: 'Debt Consolidation — Simplify Your Payments, Lower Your Rate',
+    headline: 'Debt Consolidation: Simplify Your Payments, Lower Your Rate',
     body1:
-      "If you're juggling multiple debts — a credit card here, a medical bill there, a personal loan from a couple years ago — you already know how exhausting it is. Different due dates, different interest rates, different minimums. Debt consolidation combines all of those balances into a single new loan at a lower interest rate, so you make one payment instead of five and pay less interest overall.",
+      "If you're juggling multiple debts, a credit card here, a medical bill there, a personal loan from a couple years ago, you already know how exhausting it is. Different due dates, different interest rates, different minimums. Debt consolidation combines all of those balances into a single new loan at a lower interest rate, so you make one payment instead of five and pay less interest overall.",
     body2:
-      "For homeowners, the most powerful way to consolidate is through a HELOC or home equity loan — because those carry the lowest rates. You use the funds to pay off every high-interest balance at once, then repay the home equity product at a fraction of what you were paying before. If you don't have home equity to tap, a dedicated debt consolidation loan still dramatically beats carrying balances across multiple credit cards.",
+      "For homeowners, the most powerful way to consolidate is through a HELOC or home equity loan, because those carry the lowest rates. You use the funds to pay off every high-interest balance at once, then repay the home equity product at a fraction of what you were paying before. If you don't have home equity to tap, a dedicated debt consolidation loan still dramatically beats carrying balances across multiple credit cards.",
     callout:
-      'Rolling multiple high-interest balances into a single loan can significantly reduce the total interest you pay — and simplify your monthly finances.',
+      'Rolling multiple high-interest balances into a single loan can significantly reduce the total interest you pay and simplify your monthly finances.',
     body3:
-      "Debt consolidation works best when you address the habits that created the debt in the first place. But as tools go, it's one of the most effective ones available — and the right loan can make the difference between treading water and actually getting ahead.",
+      "Debt consolidation works best when you address the habits that created the debt in the first place. But as tools go, it's one of the most effective ones available, and the right loan can make the difference between treading water and actually getting ahead.",
     card: {
       label: 'Featured Option',
       name: 'Debt Consolidation Loan',
@@ -114,15 +114,15 @@ const relatedArticles: RelatedArticle[] = [
     category: 'Borrowing Smart',
     title: "Still Paying Credit Card Interest? Here's What Financially Savvy People Do Instead",
     excerpt:
-      "Credit card interest is one of the most expensive mistakes you can keep making. Here's how homeowners are escaping it — and what to do if you don't have equity yet.",
+      "Credit card interest is one of the most expensive mistakes you can keep making. Here's how homeowners are escaping it and what to do if you don't have equity yet.",
     href: '/escape-credit-card-interest',
   },
   {
     thumbnailColor: '#1f2526',
     category: 'Home Equity',
-    title: "If You Own a Home, You're Sitting on Money — Here's How to Access It",
+    title: "If You Own a Home, You're Sitting on Money. Here's How to Access It",
     excerpt:
-      "Most homeowners have no idea how much equity they've built up — or how easily they can put it to work. Here's a plain-English guide to your options.",
+      "Most homeowners have no idea how much equity they've built up, or how easily they can put it to work. Here's a plain-English guide to your options.",
     href: '/home-equity-guide',
   },
   {
@@ -130,7 +130,7 @@ const relatedArticles: RelatedArticle[] = [
     category: 'Home Equity',
     title: 'Need a Large Sum of Money? Here Are 5 Ways Homeowners Can Get It Without the High Interest',
     excerpt:
-      "Whether it's a renovation, a major expense, or getting out of debt for good — homeowners have access to borrowing options most people don't know about.",
+      "Whether it's a renovation, a major expense, or getting out of debt for good, homeowners have access to borrowing options most people don't know about.",
     href: '/homeowner-borrowing-options',
   },
 ]
@@ -176,10 +176,10 @@ export default function SmarterWaysToBorrowPage() {
           <p className="font-sans text-[1.1rem] leading-[1.8] text-lendzingo-ink mb-4">
             You need money. Maybe it&rsquo;s for a home project, maybe it&rsquo;s to finally get out from under
             credit card debt, maybe it&rsquo;s just a big expense you didn&rsquo;t see coming. Whatever the
-            reason — the way most people borrow is costing them way more than it should.
+            reason, the way most people borrow is costing them way more than it should.
           </p>
           <p className="font-sans text-[1.1rem] leading-[1.8] text-lendzingo-ink mb-4">
-            Most people&rsquo;s first instinct is to reach for a credit card. It&rsquo;s easy and fast — and
+            Most people&rsquo;s first instinct is to reach for a credit card. It&rsquo;s easy and fast, and
             it could cost you 20%, 25%, or more in interest. There are smarter options. Most people just
             don&rsquo;t know they exist.
           </p>
