@@ -115,28 +115,28 @@ const solutions = [
     },
   },
   {
-    id: 'debt-relief',
+    id: 'small-business-loan',
     optionNumber: 'Option 05',
-    headline: 'Debt Relief: Get a Portion of What You Owe Forgiven',
+    headline: 'Small Business Loan: Capital Built for How Your Business Actually Runs',
     body1:
-      "If your debt has reached the point where consolidating it into another loan doesn't feel realistic, there's another path worth knowing about. Debt relief services work differently — instead of giving you a new loan, they negotiate directly with your creditors on your behalf to reduce the total amount you owe. Not restructure it. Actually reduce it.",
+      "If you own a small business, you already know the feeling: expenses pile up between invoices, an opportunity appears that requires capital fast, or you need equipment that would pay for itself if you just had the cash upfront. Most small business owners reach for a personal credit card. But there's a better option built specifically for you.",
     body2: (
       <>
-        {"It's not the right fit for everyone. Debt relief typically makes sense when you owe at least $10,000–$15,000 in unsecured debt — credit cards, medical bills, "}
-        <a href="https://www.mypersonalloancompanion.com/offer/personal-loan" target="_blank" rel="noopener noreferrer" className="text-lendzingo-green underline hover:text-lendzingo-green-dark">personal loans</a>
-        {" — and you're struggling to make meaningful progress on your own. If that's your situation, a debt relief partner can often settle your balances for significantly less than you owe and set you up with a manageable monthly payment plan in the meantime."}
+        {"A "}
+        <a href="https://www.mybusinessloancompanion.com/offer/business-loan-full-1fa" target="_blank" rel="noopener noreferrer" className="text-lendzingo-green underline hover:text-lendzingo-green-dark">small business loan</a>
+        {" gives you access to capital tied to your business, not your personal finances. That means you're building business credit, keeping your personal balance sheet clean, and potentially deducting the interest as a business expense. Loan amounts tend to be larger than personal loans too, and repayment terms can be structured around your cash flow rather than a generic fixed schedule."}
       </>
     ),
     callout:
-      "Debt relief isn't a loan — it's a negotiation. A debt relief partner works with your creditors directly to reduce what you owe, not just restructure it.",
+      "Unlike personal credit cards, small business financing is structured around how businesses actually operate — with terms tied to revenue and business performance, not just your personal credit score.",
     body3:
-      "The process takes time — typically 24 to 48 months — but for people who are genuinely stuck, it can be a faster path to being debt-free than making minimum payments for years. It takes about a minute to see if you qualify.",
+      "Getting matched with business loan options takes just a few minutes and won't affect your personal credit. It's worth seeing what your business qualifies for.",
     card: {
-      label: 'Not a Loan — A Better Way Out',
-      name: 'Debt Relief Assistance',
-      detail: 'Creditor negotiation · Works with Accredited, National Debt Relief & Freedom Financial',
-      ctaText: 'See If I Qualify →',
-      ctaHref: 'https://myDebtCompanion.com',
+      label: 'Featured Option',
+      name: 'Small Business Loan',
+      detail: 'For business owners · Build business credit · Flexible repayment terms',
+      ctaText: 'Calculate Payment →',
+      ctaHref: 'https://www.mybusinessloancompanion.com/offer/business-loan-full-1fa',
     },
     isLast: true,
   },
@@ -144,7 +144,7 @@ const solutions = [
 
 const relatedArticles: RelatedArticle[] = [
   {
-    image: '/hero-smarter-ways.png',
+    image: '/escape-cc-interest.png',
     category: 'Borrowing Smart',
     title: "Still Paying Credit Card Interest? Here's What Financially Savvy People Do Instead",
     excerpt:
@@ -152,7 +152,7 @@ const relatedArticles: RelatedArticle[] = [
     href: '/escape-credit-card-interest',
   },
   {
-    image: '/escape-cc-interest.png',
+    image: '/sitting-on-money.jpg',
     category: 'Home Equity',
     title: "If You Own a Home, You're Sitting on Money. Here's How to Access It",
     excerpt:
@@ -160,7 +160,7 @@ const relatedArticles: RelatedArticle[] = [
     href: '/home-equity-guide',
   },
   {
-    image: '/sitting-on-money.jpg',
+    image: '/large-sum.png',
     category: 'Home Equity',
     title: 'Need a Large Sum of Money? Here Are 5 Ways Homeowners Can Get It Without the High Interest',
     excerpt:
@@ -222,8 +222,8 @@ export default function SmarterWaysToBorrowPage() {
             powerful and underused financial tools available to everyday Americans.
           </p>
           <p className="font-sans text-[1.05rem] leading-[1.8] text-lendzingo-muted italic">
-            Read through each option below, or jump to the one that fits your situation. Don&rsquo;t own a
-            home yet? Stick around — we didn&rsquo;t forget about you.
+            Read through each option below, or jump to the one that fits your situation. Do you own a small
+            business? Stick around — we didn&rsquo;t forget about you.
           </p>
         </div>
 

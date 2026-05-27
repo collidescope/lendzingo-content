@@ -8,9 +8,9 @@ module.exports = {
     extend: {
       colors: {
         lendzingo: {
-          green: '#2282e4',
-          'green-dark': '#1a6dc7',
-          'green-light': '#edf0f3',
+          green: '#4180dd',
+          'green-dark': '#2e6acc',
+          'green-light': '#eef3fd',
           ink: '#1f2526',
           muted: '#7c8591',
           bg: '#edf0f3',

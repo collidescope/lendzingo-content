@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Header from '@/components/Header'
+import GoogleTagManager from '@/components/GoogleTagManager'
 
 export const metadata: Metadata = {
   title: '5 Smarter Ways to Borrow Money (That Most People Don\'t Know About) — Lendzingo',
@@ -10,6 +11,7 @@ export const metadata: Metadata = {
 export default function SmarterWaysToBorrowLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
+      <GoogleTagManager />
       <Header pageLabel="Borrowing Smart" />
       {children}
     </>
