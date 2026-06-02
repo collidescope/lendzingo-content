@@ -12,7 +12,7 @@ const defaultNavItems: NavItem[] = [
   { id: 'home-equity-loan', label: 'Home Equity Loan' },
   { id: 'cash-out-refi', label: 'Cash-Out Refinance' },
   { id: 'personal-loan', label: 'Personal Loan' },
-  { id: 'debt-relief', label: 'Debt Relief' },
+  { id: 'small-business-loan', label: 'Small Business Loan' },
 ]
 
 interface ProductNavBarProps {
